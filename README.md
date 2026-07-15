@@ -13,15 +13,19 @@ This repository contains general information about the College of Engineering (C
 
 - [Content Slides](Slides/)
 - [Playing with AI: Curiosity, Mistakes, and Finding Real Co-Intelligence](Presentations/Day%201%20-%20Playing%20with%20AI%20-%20Curiosity,%20Mistakes,%20and%20Finding%20Real%20Co-Intelligence.pdf) by Tarek N. Aziz
+- Towards Open Autonomous Labs for Plant and Microbial Agentic Phenotyping by Larry York, ORNL.
 
 ## Activities
 
-### Exploring Google Colab's Code Assistant
+### Hands-On: Exploring Google Colab's Code Assistant
 
-Before starting, make sure that you download the CSV [data file](https://drive.google.com/file/d/1RLQihFqsH8pfdVBdv7XGfpJzhP6ok0RO/view?usp=sharing), and make a copy of the [jupyter notebook](https://colab.research.google.com/drive/1loR3LFBVX3OnK8-1d3_IGwkFismnqg5y?usp=sharing). 
+Before starting, make sure that you download the CSV [data file](https://drive.google.com/file/d/1RLQihFqsH8pfdVBdv7XGfpJzhP6ok0RO/view?usp=sharing), and make a copy of the [jupyter notebook](https://colab.research.google.com/drive/1loR3LFBVX3OnK8-1d3_IGwkFismnqg5y?usp=sharing). This [video](https://www.loom.com/share/27282be4ad81419d8bae63ca79d0e1af) has the basic explanation of how to copy and execute all the steps in the notebook.
 
-This [video](https://www.loom.com/share/27282be4ad81419d8bae63ca79d0e1af) has the basic explanation of how to copy and execute all the steps in the notebook.
+### Hands-On: Git & Github - An AI-Guided Exercise
+
+Follow the instructions in [this document](https://docs.google.com/document/d/1SJMFocH3_k1mdkGQI0btVVrWYuAo2dKbFepedA6Z3wQ/edit?usp=sharing) to get Git & Github set up in your machine and to test some of their capabilities.
 
 ## Additional Resources
 
 - [Generative AI for Science](https://github.com/jpliu168/Generative_AI_For_Science/tree/main/codes) by Dr. J. Paul Liu, NC State.
+- [How to Build and Fine-Tune a Small Language Model](https://docs.google.com/document/d/1SJMFocH3_k1mdkGQI0btVVrWYuAo2dKbFepedA6Z3wQ/edit?usp=sharing) by Dr. J. Paul Liu, NC State.
